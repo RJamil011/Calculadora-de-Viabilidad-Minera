@@ -1,2 +1,2 @@
-# Calculadora-de-Viabilidad-Minera
+# Proyecto
 Uso de prompts para crear una calculadora de viabilidad minera
